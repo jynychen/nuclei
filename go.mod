@@ -150,7 +150,7 @@ require (
 	github.com/charmbracelet/x/ansi v0.3.2 // indirect
 	github.com/cheggaaa/pb/v3 v3.1.4 // indirect
 	github.com/cloudflare/cfssl v1.6.4 // indirect
-	github.com/cloudflare/circl v1.3.8 // indirect
+	github.com/cloudflare/circl v1.6.1 // indirect
 	github.com/cloudwego/base64x v0.1.5 // indirect
 	github.com/containerd/continuity v0.4.2 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.5 // indirect

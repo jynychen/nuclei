@@ -263,8 +263,8 @@ github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDk
 github.com/cloudflare/cfssl v1.6.4 h1:NMOvfrEjFfC63K3SGXgAnFdsgkmiq4kATme5BfcqrO8=
 github.com/cloudflare/cfssl v1.6.4/go.mod h1:8b3CQMxfWPAeom3zBnGJ6sd+G1NkL5TXqmDXacb+1J0=
 github.com/cloudflare/circl v1.1.0/go.mod h1:prBCrKB9DV4poKZY1l9zBXg2QJY7mvgRvtMxxK7fi4I=
-github.com/cloudflare/circl v1.3.8 h1:j+V8jJt09PoeMFIu2uh5JUyEaIHTXVOHslFoLNAKqwI=
-github.com/cloudflare/circl v1.3.8/go.mod h1:PDRU+oXvdD7KCtgKxW95M5Z8BpSCJXQORiZFnBQS5QU=
+github.com/cloudflare/circl v1.6.1 h1:zqIqSPIndyBh1bjLVVDHMPpVKqp8Su/V+6MeDzzQBQ0=
+github.com/cloudflare/circl v1.6.1/go.mod h1:uddAzsPgqdMAYatqJ0lsjX1oECcQLIlRpzZh3pJrofs=
 github.com/cloudwego/base64x v0.1.5 h1:XPciSp1xaq2VCSt6lF0phncD4koWyULpl5bUxbfCyP4=
 github.com/cloudwego/base64x v0.1.5/go.mod h1:0zlkT4Wn5C6NdauXdJRhSKRlJvmclQ1hhJgA0rcu/8w=
 github.com/cloudwego/iasm v0.2.0/go.mod h1:8rXZaNYT2n95jn+zTI1sDr+IgcD2GVs0nlbbQPiEFhY=
@@ -858,8 +858,6 @@ github.com/projectdiscovery/cdncheck v1.1.17 h1:YSqKk05+UGSxmPIp7tlCvRegF63FUqO+
 github.com/projectdiscovery/cdncheck v1.1.17/go.mod h1:dFEGsG0qAJY0AaRr2N1BY0OtZiTxS4kYeT5+OkF8t1U=
 github.com/projectdiscovery/clistats v0.1.1 h1:8mwbdbwTU4aT88TJvwIzTpiNeow3XnAB72JIg66c8wE=
 github.com/projectdiscovery/clistats v0.1.1/go.mod h1:4LtTC9Oy//RiuT1+76MfTg8Hqs7FQp1JIGBM3nHK6a0=
-github.com/projectdiscovery/dsl v0.4.2 h1:9PnD6EyDAZFvpQmJ0700gkQ96Fqlzl+lnTdcVHAagXI=
-github.com/projectdiscovery/dsl v0.4.2/go.mod h1:J1RizRF6O3lvk2v8p/tLAYqaxWg6N52OWc+uS5ZmO2U=
 github.com/projectdiscovery/dsl v0.4.3 h1:ZrbRkyK38hRiYMX7s6ohaTorDpq321ErqJuBUDmh49g=
 github.com/projectdiscovery/dsl v0.4.3/go.mod h1:cyt2IaYhS5SlyZ1D2BdK0QwIBXQW/u9zaBmRAKYKAmk=
 github.com/projectdiscovery/fastdialer v0.4.0 h1:licZKyq+Shd5lLDb8uPd60Jp43K4NFE8cr67XD2eg7w=
